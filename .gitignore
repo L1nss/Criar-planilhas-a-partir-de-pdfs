@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+configuracao.json
+logs/
+*.xlsx
+*.xls
+*.pdf
+.DS_Store
+Thumbs.db

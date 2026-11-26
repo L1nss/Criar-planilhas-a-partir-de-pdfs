@@ -131,12 +131,6 @@ python naRegional.py "C:\notas" --nao-recursivo
 O modo padrão `--ocr auto` usa OCR somente nas páginas em que o texto nativo é
 insuficiente.
 
-## Testes
-
-```bash
-python -m unittest discover -s tests -v
-```
-
 ## Limitações
 
 Os modelos de documentos fiscais variam entre prefeituras, fornecedores e
